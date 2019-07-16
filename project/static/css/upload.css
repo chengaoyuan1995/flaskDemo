@@ -1,0 +1,8 @@
+  #show_img{
+        height: 310px;
+        width:590px;
+        box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+        /*考虑浏览器兼容性*/
+        -moz-box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+        -webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+    }
